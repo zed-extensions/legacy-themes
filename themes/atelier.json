@@ -1,10 +1,10 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
-  "name": "Atelier",
+  "name": "Zed Legacy: Atelier",
   "author": "Zed Industries",
   "themes": [
     {
-      "name": "Atelier Cave Dark",
+      "name": "Zed Legacy: Atelier Cave Dark",
       "appearance": "dark",
       "style": {
         "border": "#56505eff",
@@ -390,7 +390,7 @@
       }
     },
     {
-      "name": "Atelier Cave Light",
+      "name": "Zed Legacy: Atelier Cave Light",
       "appearance": "light",
       "style": {
         "border": "#8f8b96ff",
@@ -776,7 +776,7 @@
       }
     },
     {
-      "name": "Atelier Dune Dark",
+      "name": "Zed Legacy: Atelier Dune Dark",
       "appearance": "dark",
       "style": {
         "border": "#6c695cff",
@@ -1162,7 +1162,7 @@
       }
     },
     {
-      "name": "Atelier Dune Light",
+      "name": "Zed Legacy: Atelier Dune Light",
       "appearance": "light",
       "style": {
         "border": "#a8a48eff",
@@ -1548,7 +1548,7 @@
       }
     },
     {
-      "name": "Atelier Estuary Dark",
+      "name": "Zed Legacy: Atelier Estuary Dark",
       "appearance": "dark",
       "style": {
         "border": "#5d5c4cff",
@@ -1934,7 +1934,7 @@
       }
     },
     {
-      "name": "Atelier Estuary Light",
+      "name": "Zed Legacy: Atelier Estuary Light",
       "appearance": "light",
       "style": {
         "border": "#969585ff",
@@ -2320,7 +2320,7 @@
       }
     },
     {
-      "name": "Atelier Forest Dark",
+      "name": "Zed Legacy: Atelier Forest Dark",
       "appearance": "dark",
       "style": {
         "border": "#665f5cff",
@@ -2706,7 +2706,7 @@
       }
     },
     {
-      "name": "Atelier Forest Light",
+      "name": "Zed Legacy: Atelier Forest Light",
       "appearance": "light",
       "style": {
         "border": "#aaa3a1ff",
@@ -3092,7 +3092,7 @@
       }
     },
     {
-      "name": "Atelier Heath Dark",
+      "name": "Zed Legacy: Atelier Heath Dark",
       "appearance": "dark",
       "style": {
         "border": "#675b67ff",
@@ -3478,7 +3478,7 @@
       }
     },
     {
-      "name": "Atelier Heath Light",
+      "name": "Zed Legacy: Atelier Heath Light",
       "appearance": "light",
       "style": {
         "border": "#ad9dadff",
@@ -3864,7 +3864,7 @@
       }
     },
     {
-      "name": "Atelier Lakeside Dark",
+      "name": "Zed Legacy: Atelier Lakeside Dark",
       "appearance": "dark",
       "style": {
         "border": "#4f6a78ff",
@@ -4250,7 +4250,7 @@
       }
     },
     {
-      "name": "Atelier Lakeside Light",
+      "name": "Zed Legacy: Atelier Lakeside Light",
       "appearance": "light",
       "style": {
         "border": "#80a4b6ff",
@@ -4636,7 +4636,7 @@
       }
     },
     {
-      "name": "Atelier Plateau Dark",
+      "name": "Zed Legacy: Atelier Plateau Dark",
       "appearance": "dark",
       "style": {
         "border": "#564e4eff",
@@ -5022,7 +5022,7 @@
       }
     },
     {
-      "name": "Atelier Plateau Light",
+      "name": "Zed Legacy: Atelier Plateau Light",
       "appearance": "light",
       "style": {
         "border": "#8e8989ff",
@@ -5408,7 +5408,7 @@
       }
     },
     {
-      "name": "Atelier Savanna Dark",
+      "name": "Zed Legacy: Atelier Savanna Dark",
       "appearance": "dark",
       "style": {
         "border": "#505e55ff",
@@ -5794,7 +5794,7 @@
       }
     },
     {
-      "name": "Atelier Savanna Light",
+      "name": "Zed Legacy: Atelier Savanna Light",
       "appearance": "light",
       "style": {
         "border": "#8b968eff",
@@ -6180,7 +6180,7 @@
       }
     },
     {
-      "name": "Atelier Seaside Dark",
+      "name": "Zed Legacy: Atelier Seaside Dark",
       "appearance": "dark",
       "style": {
         "border": "#5c6c5cff",
@@ -6566,7 +6566,7 @@
       }
     },
     {
-      "name": "Atelier Seaside Light",
+      "name": "Zed Legacy: Atelier Seaside Light",
       "appearance": "light",
       "style": {
         "border": "#8ea88eff",
@@ -6952,7 +6952,7 @@
       }
     },
     {
-      "name": "Atelier Sulphurpool Dark",
+      "name": "Zed Legacy: Atelier Sulphurpool Dark",
       "appearance": "dark",
       "style": {
         "border": "#5b6385ff",
@@ -7338,7 +7338,7 @@
       }
     },
     {
-      "name": "Atelier Sulphurpool Light",
+      "name": "Zed Legacy: Atelier Sulphurpool Light",
       "appearance": "light",
       "style": {
         "border": "#9a9fb6ff",

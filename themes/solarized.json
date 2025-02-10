@@ -1,10 +1,10 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
-  "name": "Solarized",
+  "name": "Zed Legacy: Solarized",
   "author": "Zed Industries",
   "themes": [
     {
-      "name": "Solarized Dark",
+      "name": "Zed Legacy: Solarized Dark",
       "appearance": "dark",
       "style": {
         "border": "#2b4e58ff",
@@ -375,7 +375,7 @@
       }
     },
     {
-      "name": "Solarized Light",
+      "name": "Zed Legacy: Solarized Light",
       "appearance": "light",
       "style": {
         "border": "#9faaa8ff",
