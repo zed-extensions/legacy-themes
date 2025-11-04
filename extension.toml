@@ -1,6 +1,6 @@
 id = "zed-legacy-themes"
 name = "Zed Legacy Themes"
-version = "0.0.2"
+version = "0.0.3"
 schema_version = 1
 authors = ["Nate Butler <iamnbutler@gmail.com>"]
 description = "Some of the legacy themes Zed shipped with initially: Andromeda, Atelier, Rosé Pine, Sandcastle, Solarized, Summercamp"
